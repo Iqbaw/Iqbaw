@@ -1,11 +1,12 @@
-<h1 align="center">Hello Universes!, I'm Iqbal </h1>
-<h3 align="center">A passionate Mobile & Web Developer </h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+  Hello, Universes! I'm Iqbal
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Building+Cool+Projects+in+Web+%26+Mobile+Dev;Always+Learning+New+Techs!+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Developer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Problem+Solver;Building+Impactful+Projects+with+Code+💻;Welcome+to+My+Digital+Universe+🌌" />
 </p>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
