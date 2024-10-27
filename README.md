@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apocalcrk&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&hide_title=true" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=apocalcrk&theme=radical&hide_border=true" height="180" alt="GitHub streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apocalcrk&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top languages"/>
 </div>
