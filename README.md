@@ -1,5 +1,4 @@
-﻿# Readme
-﻿# README.md
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbaw&show_icons=true&theme=radical)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
