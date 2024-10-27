@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Mobile & Web Developer </h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Building+Cool+Projects+in+Web+%26+Mobile+Dev;Always+Learning+New+Techs!+💻" />
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
