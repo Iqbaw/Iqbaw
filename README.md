@@ -12,10 +12,13 @@
 
 ### 🕹️ Player Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <a href="https://github.com/Iqbaw">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iqbaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com?user=Iqbaw&theme=radical&hide_border=false" height="180" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=default&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" height="180" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iqbaw&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </div>
+
 
 ---
 
@@ -106,17 +109,6 @@
 - Published interactive projects  
 
 ---
-<p align="left">
-<a href="https://github.com/Iqbaw">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iqbaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iqbaw&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 
 ### ⚔️ Loot / Achievements
 <div align="center">
