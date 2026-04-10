@@ -12,9 +12,9 @@
 
 ### 🕹️ Player Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180" />
-<img src="https://streak-stats.demolab.com?user=Iqbaw&theme=radical&hide_border=false" height="180" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=default&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Iqbaw&theme=radical&hide_border=false" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=default&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" height="180" />
 </div>
 
 ---
