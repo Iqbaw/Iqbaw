@@ -12,8 +12,8 @@
 
 ### 🕹️ Player Stats
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical&include_all_commits=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&langs_count=8&theme=radical&layout=default" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=default&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" height="180" />
 <img src="https://streak-stats.demolab.com?user=Iqbaw&theme=radical&hide_border=false" height="180" alt="GitHub Streak"/>
 </div>
 
@@ -60,7 +60,14 @@
 ---
 
 ### 📜 Character Sheet
-
+<p align="center">
+  <svg width="100" height="100" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="32" cy="32" r="30" fill="#ff6d00">
+      <animate attributeName="cx" from="32" to="48" dur="1s" repeatCount="indefinite" />
+    </circle>
+  </svg>
+  <p><i>Avatar bergerak maju & mundur (looping)</i></p>
+</p>
 **Name:** Iqbal “The Code Adventurer”  
 **Class:** Fullstack Dev / Game Dev / AI Wizard  
 **Level:** 99 (GitHub XP)  
@@ -71,10 +78,10 @@
 **Skills:**  
 - JavaScript  
 - Python  
-- Unity  
 - C#  
-- Git & GitHub  
-- Web3  
+- Git & GitHub
+- HTML
+- CSS  
 
 **Inventory:**  
 - Laptop  
@@ -83,7 +90,7 @@
 - Inspiration  
 
 **Achievements:**  
-- Full GitHub streaks  
+- Full GitHub streaks  (i hope)
 - 100+ repos explored  
 - Published interactive projects  
 
@@ -98,12 +105,3 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iqbaw&theme=react-dark)
 
-### 🎲 Fun Stats
-<div align="center">
-- ☕ Coffees consumed: 127  
-- 🐛 Bugs fixed: 342  
-- ⚡ Pull requests merged: 98  
-- 🕹️ Hours coding: 1,240  
-</div>
-
----
