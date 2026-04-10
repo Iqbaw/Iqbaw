@@ -52,12 +52,7 @@
 ---
 
 ### 🎮 Mini-game & Animations
-### 🎮 Mini-game & Animations
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/apocalcrk/apocalcrk/output/snake.svg)
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180" alt="Retro Game Animation"/>
-  <img src="https://media.giphy.com/media/1y5I9zA2dZ8rY/giphy.gif" width="180" alt="Coding Animation"/>
-</div>
+![Snake animation](https://raw.githubusercontent.com/apocalcrk/apocalcrk/output/snake.svg)
 ---
 
 ### 📜 Character Sheet
