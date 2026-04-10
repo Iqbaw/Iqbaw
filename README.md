@@ -65,6 +65,12 @@
 
 ---
 
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
+
+---
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Retro Pixel Avatar"/>
 </p>
