@@ -34,17 +34,28 @@
 ---
 
 ### 🌐 Social Links / Multiplayer
-
-### 🌐 Social Links / Multiplayer
 <div align="center">
-  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)]    (https://www.behance.net/iqbalalbatmi)  
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sneezeeee_)  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibbat.alqalmi)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbalalbatmi/)  
-  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iqbawawbatmee)  
-  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white) (https://id.quora.com/profile/N%C3%BCr-Haikal)
+  <a href="https://www.behance.net/iqbalalbatmi">
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="https://discord.gg/sneezeeee_">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/ibbat.alqalmi">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/iqbalalbatmi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@iqbawawbatmee">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://id.quora.com/profile/N%C3%BCr-Haikal">
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"/>
+  </a>
 </div>
 ---
+
 ### 🖼️ Retro Pixel Avatar
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Retro Pixel Avatar"/>
