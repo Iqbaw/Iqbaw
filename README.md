@@ -12,9 +12,9 @@
 
 ### 🕹️ Player Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=dark&hide_border=false&include_all_commits=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Iqbaw&theme=dark&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=compact&langs_count=8&theme=dark&hide_border=false" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&langs_count=8&theme=radical&layout=default" height="180" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=Iqbaw&theme=radical&hide_border=false" height="180" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -52,33 +52,48 @@
 ---
 
 ### 🎮 Mini-game & Animations
+### 🎮 Mini-game & Animations
 <div align="center">
-  <img src="https://raw.githubusercontent.com/apocalcrk/apocalcrk/output/snake.svg" alt="Snake Animation" width="300"/>
+  ![Snake animation](https://raw.githubusercontent.com/apocalcrk/apocalcrk/output/snake.svg)
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180" alt="Retro Game Animation"/>
   <img src="https://media.giphy.com/media/1y5I9zA2dZ8rY/giphy.gif" width="180" alt="Coding Animation"/>
 </div>
-
 ---
 
 ### 📜 Character Sheet
-Name: Iqbal “The Code Adventurer”
-Class: Fullstack Dev / Game Dev / AI Wizard
-Level: 99 (GitHub XP)
-HP: ██████████ 100%
-MP: █████████ 90%
-Skills: JS, Python, Unity, Git, GitHub, Web3
-Inventory: Laptop, Coffee, Headphones, Inspiration
-Achievements:
 
-Full GitHub streaks
-100+ repos explored
-Published interactive projects
+**Name:** Iqbal “The Code Adventurer”  
+**Class:** Fullstack Dev / Game Dev / AI Wizard  
+**Level:** 99 (GitHub XP)  
+
+**HP:** ██████████ 100%  
+**MP:** █████████ 90%  
+
+**Skills:**  
+- JavaScript  
+- Python  
+- Unity  
+- C#  
+- Git & GitHub  
+- Web3  
+
+**Inventory:**  
+- Laptop  
+- Coffee  
+- Headphones  
+- Inspiration  
+
+**Achievements:**  
+- Full GitHub streaks  
+- 100+ repos explored  
+- Published interactive projects  
 
 ---
 
 ### ⚔️ Loot / Achievements
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="160"/>
-  <img src="https://media.giphy.com/media/3orieV01zX8xvS6mVy/giphy.gif" width="160"/>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="140" alt="Achievement 1"/>
+  <img src="https://media.giphy.com/media/3orieV01zX8xvS6mVy/giphy.gif" width="140" alt="Achievement 2"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="140" alt="Achievement 3"/>
+  <p>💾 100+ repos explored | 🏆 Full GitHub streak | ⚡ Completed AI & Web Dev side quests</p>
 </div>
