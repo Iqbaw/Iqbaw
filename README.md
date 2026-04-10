@@ -57,7 +57,6 @@
 
 ---
 
-### 🖼️ Retro Pixel Avatar
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Retro Pixel Avatar"/>
 </p>
@@ -108,7 +107,10 @@
   <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="140" alt="Achievement 1"/>
   <img src="https://media.giphy.com/media/3orieV01zX8xvS6mVy/giphy.gif" width="140" alt="Achievement 2"/>
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="140" alt="Achievement 3"/>
-
+  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="140" alt="Achievement 4"/>
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="140" alt="Achievement 5"/>
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="140" alt="Achievement 6"/>
+</div>
 
 <svg width="200" height="20">
   <rect width="20" height="20" fill="#ff6d00">
