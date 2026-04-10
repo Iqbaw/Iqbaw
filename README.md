@@ -20,7 +20,9 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
 
 ---
 
