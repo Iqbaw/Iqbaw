@@ -10,10 +10,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=Iqbaw&theme=radical&hide_border=true" height="180" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iqbaw&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqbaw&theme=radical&hide_border=true" height="180" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top languages"/>
 </div>
-
 ---
 
 ### 👨‍💻 About Me
