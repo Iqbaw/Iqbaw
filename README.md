@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"/>
   </a>
 </div>
+
 ---
 
 ### 🖼️ Retro Pixel Avatar
@@ -89,14 +90,6 @@
 **HP:** ██████████ 100%  
 **MP:** █████████ 90%  
 
-**Skills:**  
-- JavaScript  
-- Python  
-- C#  
-- Git & GitHub
-- HTML
-- CSS  
-
 **Inventory:**  
 - Laptop  
 - Coffee  
@@ -117,5 +110,15 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="140" alt="Achievement 3"/>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iqbaw&theme=react-dark)
+<svg width="200" height="20">
+  <rect width="20" height="20" fill="#ff6d00">
+    <animate attributeName="fill" values="#ff6d00;#ffd700;#ff6d00" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="25" width="20" height="20" fill="#ffa500">
+    <animate attributeName="fill" values="#ffa500;#ffff00;#ffa500" dur="1s" repeatCount="indefinite" begin="0.2s"/>
+  </rect>
+  <rect x="50" width="20" height="20" fill="#ffd700">
+    <animate attributeName="fill" values="#ffd700;#ff6d00;#ffd700" dur="1s" repeatCount="indefinite" begin="0.4s"/>
+  </rect>
+</svg>
 
