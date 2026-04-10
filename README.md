@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-  Iqbal the Code Adventurer
+  Iqbal Al Batmi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 
@@ -13,31 +13,16 @@
 ### 🕹️ Player Stats
 <div align="center">
   <a href="https://github.com/Iqbaw">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iqbaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com?user=Iqbaw&theme=radical&hide_border=false" height="180" alt="GitHub Streak"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iqbaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iqbaw&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
-
 
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
-### 🛠️ Inventory / Toolbox
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
-</div>
 
 ---
 
@@ -65,54 +50,15 @@
 
 ---
 
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
-
----
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Retro Pixel Avatar"/>
-</p>
-
-### ⚡ Quests / Current Projects
-- **Mobile & Web Development** – Main storyline  
-- **AI Integration & Bots** – Side quests  
-- **Game Development (Unity + C#)** – Unlocking new skills  
-- **Web3 Projects** – Secret dungeon  
 
 ---
 
 ### 🎮 Mini-game & Animations
 ![Snake animation](https://raw.githubusercontent.com/apocalcrk/apocalcrk/output/snake.svg)
 ---
-
-### 📜 Character Sheet
-<p align="center">
-  <svg width="100" height="100" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="32" cy="32" r="30" fill="#ff6d00">
-      <animate attributeName="cx" from="32" to="48" dur="1s" repeatCount="indefinite" />
-    </circle>
-  </svg>
-  <p><i>Avatar bergerak maju & mundur (looping)</i></p>
-</p>
-**Name:** Iqbal “The Code Adventurer”  
-**Class:** Fullstack Dev / Game Dev / AI Wizard  
-**Level:** 99 (GitHub XP)  
-
-**HP:** ██████████ 100%  
-**MP:** █████████ 90%  
-
-**Inventory:**  
-- Laptop  
-- Coffee  
-- Headphones  
-- Inspiration  
-
-**Achievements:**  
-- Full GitHub streaks  (i hope)
-- 100+ repos explored  
-- Published interactive projects  
 
 ---
 
