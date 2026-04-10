@@ -1,47 +1,84 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hello, Universes! I'm Iqbal
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+  Iqbal the Code Adventurer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Developer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Problem+Solver;Building+Impactful+Projects+with+Code+💻;Welcome+to+My+Digital+Universe+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF6D00&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Dev+Hero;Game+Dev+Explorer;Web3+&+AI+Wizard;Building+Epic+Code+Projects" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqbaw&theme=radical&hide_border=true" height="180" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top languages"/>
-</div>
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Mobile & Web Development projects**
-- 🌱 I’m learning **advanced frameworks and new programming languages**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/iqbalalbatmi) | [Instagram](https://instagram.com/ibbat.alqalmi) | [Twitter](https://twitter.com/albatmee)
-
----
-
-### 🛠️ My Toolbox
+### 🕹️ Player Stats
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=dark&hide_border=false&include_all_commits=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Iqbaw&theme=dark&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=compact&langs_count=8&theme=dark&hide_border=false" height="160"/>
 </div>
 
 ---
 
-### 🌐 Let's Connect
+### 🛠️ Inventory / Toolbox
 <div align="center">
-  <a href="https://instagram.com/ibbat.alqalmi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://discordapp.com/users/elbatmee"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://linkedin.com/in/iqbalalbatmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/albatmee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
 </div>
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/apocalcrk/apocalcrk/output/snake.svg)
+### 🌐 Social Links / Multiplayer
+<div align="center">
+  <a href="https://instagram.com/ibbat.alqalmi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/elbatmee"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/iqbalalbatmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/albatmee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
+
+---
+
+### ⚡ Quests / Current Projects
+- **Mobile & Web Development** – Main storyline  
+- **AI Integration & Bots** – Side quests  
+- **Game Development (Unity + C#)** – Unlocking new skills  
+- **Web3 Projects** – Secret dungeon  
+
+---
+
+### 🎮 Mini-game & Animations
+<div align="center">
+  <img src="https://raw.githubusercontent.com/apocalcrk/apocalcrk/output/snake.svg" alt="Snake Animation" width="300"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180" alt="Retro Game Animation"/>
+  <img src="https://media.giphy.com/media/1y5I9zA2dZ8rY/giphy.gif" width="180" alt="Coding Animation"/>
+</div>
+
+---
+
+### 📜 Character Sheet
+Name: Iqbal “The Code Adventurer”
+Class: Fullstack Dev / Game Dev / AI Wizard
+Level: 99 (GitHub XP)
+HP: ██████████ 100%
+MP: █████████ 90%
+Skills: JS, Python, Unity, Git, GitHub, Web3
+Inventory: Laptop, Coffee, Headphones, Inspiration
+Achievements:
+
+Full GitHub streaks
+100+ repos explored
+Published interactive projects
+
+---
+
+### ⚔️ Loot / Achievements
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/3orieV01zX8xvS6mVy/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="160"/>
+</div>
