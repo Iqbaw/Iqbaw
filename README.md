@@ -36,13 +36,17 @@
 ### 🌐 Social Links / Multiplayer
 <div align="center">
   <a href="https://instagram.com/ibbat.alqalmi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/elbatmee"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/sneezeeee_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://linkedin.com/in/iqbalalbatmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/albatmee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
 ---
-
+### 🖼️ Retro Pixel Avatar
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Retro Pixel Avatar"/>
+</p>
+<p align="center"><i>Avatar bergerak mengikuti scroll halaman (GIF animasi)</i></p>
 ### ⚡ Quests / Current Projects
 - **Mobile & Web Development** – Main storyline  
 - **AI Integration & Bots** – Side quests  
@@ -90,5 +94,16 @@
   <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="140" alt="Achievement 1"/>
   <img src="https://media.giphy.com/media/3orieV01zX8xvS6mVy/giphy.gif" width="140" alt="Achievement 2"/>
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="140" alt="Achievement 3"/>
-  <p>💾 100+ repos explored | 🏆 Full GitHub streak | ⚡ Completed AI & Web Dev side quests</p>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iqbaw&theme=react-dark)
+
+### 🎲 Fun Stats
+<div align="center">
+- ☕ Coffees consumed: 127  
+- 🐛 Bugs fixed: 342  
+- ⚡ Pull requests merged: 98  
+- 🕹️ Hours coding: 1,240  
 </div>
+
+---
