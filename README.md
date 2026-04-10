@@ -13,9 +13,14 @@
 ### 🕹️ Player Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Iqbaw&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=default&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" height="180" />
 <img src="https://streak-stats.demolab.com?user=Iqbaw&theme=radical&hide_border=false" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaw&layout=default&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" height="180" />
 </div>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 
@@ -107,24 +112,5 @@
   <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="140" alt="Achievement 1"/>
   <img src="https://media.giphy.com/media/3orieV01zX8xvS6mVy/giphy.gif" width="140" alt="Achievement 2"/>
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="140" alt="Achievement 3"/>
-
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Iqbaw&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<svg width="200" height="20">
-  <rect width="20" height="20" fill="#ff6d00">
-    <animate attributeName="fill" values="#ff6d00;#ffd700;#ff6d00" dur="1s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="25" width="20" height="20" fill="#ffa500">
-    <animate attributeName="fill" values="#ffa500;#ffff00;#ffa500" dur="1s" repeatCount="indefinite" begin="0.2s"/>
-  </rect>
-  <rect x="50" width="20" height="20" fill="#ffd700">
-    <animate attributeName="fill" values="#ffd700;#ff6d00;#ffd700" dur="1s" repeatCount="indefinite" begin="0.4s"/>
-  </rect>
-</svg>
 
