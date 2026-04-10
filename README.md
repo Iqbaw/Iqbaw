@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Retro Pixel Avatar"/>
 </p>
-<p align="center"><i>Avatar bergerak mengikuti scroll halaman (GIF animasi)</i></p>
+
 ### ⚡ Quests / Current Projects
 - **Mobile & Web Development** – Main storyline  
 - **AI Integration & Bots** – Side quests  
