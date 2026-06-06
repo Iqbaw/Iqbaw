@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 
-<p align="left">
+<p align="Center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF6D00&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Dev+Hero;Game+Dev+Explorer;Web3+&+AI+Wizard;Building+Epic+Code+Projects" />
 </p>
 
